@@ -1,2 +1,2 @@
 # palm-tree
-https://i.imgur.com/CKCWP4M.png
+![banner](https://i.imgur.com/CKCWP4M.png)
